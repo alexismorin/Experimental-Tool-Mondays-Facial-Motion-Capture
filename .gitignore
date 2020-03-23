@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -33,6 +34,7 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
+*.abc
 *.user
 *.userprefs
 *.pidb
