@@ -33,7 +33,7 @@ Our demo features various denizens of a restroom freaking out because someone is
 
 Alright, here’s what you’ll need for the first experiment: a webcam and a bunch of coloured stickers from the dollar store!
 
-[image](images/image2.png)
+![image](images/image2.png)
 
 Before diving into anything more complicated I wanted to take a look at a more traditional motion capture method: marker-based tracking! The idea of trying to cobble something of the sort together had been trotting through my head for a while now so I’m glad this little facial tracking bonanza is what pushed me to do it!
 
