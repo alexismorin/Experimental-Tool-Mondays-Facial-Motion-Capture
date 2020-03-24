@@ -47,7 +47,7 @@ Recording in the engine, it ends up a little noisy and kind of humiliating. Ulti
 
 ![image](images/image5.gif)
 
-After some denoising in Maya it becomes a little more palatable. I won’t win any awards at SIGGRAPH for my marker capture tool but it’s serviceable for our plugs. With that done, we stick what we have into the engine and move onto the next experiment!
+After some denoising in Maya it becomes a little more palatable. The whole thing might have performed better if I had used two markers for my mouth instead of one but I’m not sure that the rough code and my beard would have allowed for that many stickers! Eitherway, I won’t win any awards at SIGGRAPH for my marker capture tool but it’s serviceable for our plugs. With that done, we stick what we have into the engine and move onto the next experiment!
 
 ![image](images/image6.gif)
 
